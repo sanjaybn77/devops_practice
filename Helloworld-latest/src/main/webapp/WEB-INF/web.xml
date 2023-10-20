@@ -7,7 +7,7 @@
     <display-name>HelloWorld</display-name>
     <servlet>
         <servlet-name>HelloWorldServlet</servlet-name>
-        <jsp-file>/index.jsp</jsp-file>
+        <jsp-file>/index.html</jsp-file>
     </servlet>
     <servlet-mapping>
         <servlet-name>HelloWorldServlet</servlet-name>
