@@ -8,6 +8,7 @@
     <servlet>
         <servlet-name>HelloWorldServlet</servlet-name>
         <jsp-file>/index.html</jsp-file>
+        <jsp-file>/style.css</jsp-file>
     </servlet>
     <servlet-mapping>
         <servlet-name>HelloWorldServlet</servlet-name>
