@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="/style.css"?>
 <web-app xmlns="http://java.sun.com/xml/ns/javaee"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
@@ -9,11 +8,6 @@
     <servlet>
         <servlet-name>HelloWorldServlet</servlet-name>
         <jsp-file>/index.jsp</jsp-file>
-        <image> ./images/portfolioback.jpg</image>
-        <image> ./images/sanjayLogo.PNG</image>
-        <image> ./images/sanjayLogo3.PNG</image>
-        <image> ./images/user.png</image>
-        <image> ./images/sanjay_BN_Resume.pdf</image>
     </servlet>
     <servlet-mapping>
         <servlet-name>HelloWorldServlet</servlet-name>
