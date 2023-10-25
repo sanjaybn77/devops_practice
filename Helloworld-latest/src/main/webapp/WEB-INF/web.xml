@@ -8,7 +8,7 @@
     <display-name>HelloWorld</display-name>
     <servlet>
         <servlet-name>HelloWorldServlet</servlet-name>
-        <jsp-file>/index.html</jsp-file>
+        <jsp-file>/index.jsp</jsp-file>
         <image> ./images/portfolioback.jpg</image>
         <image> ./images/sanjayLogo.PNG</image>
         <image> ./images/sanjayLogo3.PNG</image>
